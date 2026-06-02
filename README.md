@@ -10,6 +10,8 @@ Ejecutá modelos LLM locales en Google Colab y exponelos via API pública usando
 4. Esperá a que termine. Vas a ver una URL publica como `https://...trycloudflare.com`.
 5. Usá esa URL desde cualquier cliente (curl, VS Code, etc.) apuntando al endpoint `/api/generate`.
 
+Podés probar que tu modelo anda en mi chat web [jermaine](https://lamonega.github.io/jermaine/) con la URL y el nombre de modelo.
+
 ## Notas
 
 - La sesión de Colab dura hasta ~4 horas.
