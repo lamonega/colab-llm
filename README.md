@@ -4,7 +4,7 @@ Ejecutá modelos LLM locales en Google Colab y exponelos via API pública usando
 
 ## Uso
 
-1. Subí el notebook a Google Colab (podés usar GitHub directamente)
+1. Abrí el notebook en Colab, ya sea subiéndolo o [directamente desde acá.](https://colab.research.google.com/github/lamonega/colab-llm/blob/main/colab_llm.ipynb)
 2. Seleccioná runtime: T4 GPU.
 3. Ejecutá todas las celdas.
 4. Esperá a que termine. Vas a ver una URL publica como `https://...trycloudflare.com`.
